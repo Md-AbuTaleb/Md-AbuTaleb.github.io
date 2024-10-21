@@ -1,0 +1,22 @@
+* {box-sizing: border-box}
+body {font-family: math, "Lato", sans-serif;}
+a{text-decoration: none;}
+.blue{color: #30475e;}
+.deep-blue{color: #1e3799;}
+.tomato{color: tomato;}
+.def-color{color: #B53471;}
+.def-bg{background-color: #B53471;}
+.home-img img{
+	overflow: none;
+	width: 100%;
+	height: auto;
+	border: 1px solid #ccc;
+}
+
+.home-content ul {
+	list-style-type: disclosure-closed;
+}
+.home-content ul li{
+	margin-bottom: 4px;
+	font-size: 1.1rem;
+}
